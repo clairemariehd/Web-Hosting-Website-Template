@@ -11,7 +11,7 @@
   <?php include_once("template/main-nav.php");?>
   
   <!-- Page Content -->
-  <div class="container">
+  <div class="containerr">
 
     <?php if(tips == "ON"){include_once("demo-content/tips/tip1.php");};?>
     <?php if(MODULE_TopHeader == "ON"){include_once("modules/top-header.php");};?>
